@@ -1,0 +1,15 @@
+input{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+   
+    
+}
+
+button{
+    background-color:#1abc9c ;
+    border: 0px;
+    color: white;
+    border-radius: 3px;
+    
+}

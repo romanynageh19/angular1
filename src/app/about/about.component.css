@@ -1,0 +1,26 @@
+.about{
+    background-color:  #1abc9c;
+    margin: 0;
+    color: white;
+}
+body{
+margin: 0;
+}
+h1{
+    position: relative;
+}
+h1::after{
+    content: "________";
+    position: absolute;
+    bottom: -5px;
+    left: 300px;
+
+ 
+}
+h1::before{
+    content: "________";
+    position: absolute;
+    bottom: -5px;
+    left: 500px;
+
+}
